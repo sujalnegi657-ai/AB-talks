@@ -1,0 +1,43 @@
+{
+  "role": "Full Stack Software Developer",
+  "description": "Technical interview curriculum for evaluating a software development candidate.",
+  "skills": [
+    "Python",
+    "JavaScript",
+    "React",
+    "REST APIs",
+    "FastAPI",
+    "SQL",
+    "Data Structures and Algorithms",
+    "Git and GitHub",
+    "System Design"
+  ],
+  "difficulty_levels": {
+    "easy": {
+      "description": "Basic concepts and definitions",
+      "weight": 1
+    },
+    "medium": {
+      "description": "Practical implementation and problem solving",
+      "weight": 2
+    },
+    "hard": {
+      "description": "Advanced concepts, architecture and trade-offs",
+      "weight": 3
+    }
+  },
+  "evaluation_criteria": [
+    "Technical Knowledge",
+    "Problem Solving",
+    "Communication",
+    "Practical Understanding",
+    "Code Quality",
+    "System Design"
+  ],
+  "interview_structure": {
+    "total_questions": 7,
+    "adaptive_difficulty": true,
+    "follow_up_questions": true,
+    "final_feedback": true
+  }
+}

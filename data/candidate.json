@@ -1,0 +1,51 @@
+{
+  "candidate_id": "candidate_001",
+  "name": "Alex Sharma",
+  "experience": "2 years",
+  "role": "Full Stack Software Developer",
+  "education": "B.Tech in Computer Science",
+  "skills": [
+    "Python",
+    "JavaScript",
+    "React",
+    "FastAPI",
+    "SQL",
+    "Git"
+  ],
+  "projects": [
+    {
+      "name": "E-Commerce Platform",
+      "description": "Built a full-stack e-commerce application using React, FastAPI and PostgreSQL.",
+      "technologies": [
+        "React",
+        "FastAPI",
+        "PostgreSQL",
+        "Python"
+      ]
+    },
+    {
+      "name": "Task Management API",
+      "description": "Developed a REST API for managing users, tasks and authentication.",
+      "technologies": [
+        "Python",
+        "FastAPI",
+        "REST API",
+        "SQL"
+      ]
+    }
+  ],
+  "self_assessment": {
+    "python": 8,
+    "javascript": 7,
+    "react": 7,
+    "sql": 6,
+    "system_design": 5,
+    "data_structures": 6
+  },
+  "interview_preferences": {
+    "focus_on_projects": true,
+    "include_coding_questions": true,
+    "include_system_design": true,
+    "include_follow_up_questions": true
+  }
+}
